@@ -16,3 +16,5 @@ tampilan sebelum di run
 
 2 screenshot di atas merupakan hasil setelah di run di publisher dan juga subscriber. Dan berhasil dilakukan, terkirim data melalui message broker. Terlihat pada console.
 
+![alt text](image-7.png)
+spike pada grafik menunjukkan message rates. Message rates imenunjukkan jumlah message yang dikirim tiap detiknya.
