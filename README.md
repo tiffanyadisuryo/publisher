@@ -7,4 +7,12 @@ run? <br>
     url tersebut menandakannya melakukan protokol AMQP. amqp:// menandakan bahwa sedang membuat koneksi menggunakan protokol AMQP. guest:guest menandakan username:password saat autentikasi. localhost:5672 merupakan hostname dan port dari server AMQP. Maka url tersebut menandakan bahwa program dikonfigurasi untuk disambungkan ke server AMQP lokal.
 
 ![alt text](image.png)
+tampilan sebelum di run
+<br><br>
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+2 screenshot di atas merupakan hasil setelah di run di publisher dan juga subscriber. Dan berhasil dilakukan, terkirim data melalui message broker. Terlihat pada console.
 
